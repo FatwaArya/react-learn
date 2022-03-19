@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b871b7e-4e81-4e07-a373-c21abf2be5b1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/01-starting-setup/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-setup/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-setup/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-setup/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-setup/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-setup/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-setup/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-setup/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-setup/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-setup/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-setup/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-starting-setup/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-basics/src/components/card-list/card-list.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-basics/src/components/card-list/card-list.component.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +22,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -43,6 +35,10 @@
       <option name="presentableId" value="Default" />
       <updated>1646981413121</updated>
       <workItem from="1646981416128" duration="15000" />
+      <workItem from="1647567738536" duration="11000" />
+      <workItem from="1647567761669" duration="30000" />
+      <workItem from="1647567794476" duration="901000" />
+      <workItem from="1647568772017" duration="645000" />
     </task>
     <servers />
   </component>
